@@ -6,7 +6,7 @@
 
 ## Descripción
 
-Este proyecto es una aplicación frontend desarrollada en Vue.js para gestionar operaciones bancarias. Permite a los usuarios visualizar información de sus cuentas, realizar transacciones.
+Este proyecto es una aplicación frontend desarrollada en Vue.js para gestionar operaciones bancarias. Permite a los usuarios visualizar información de sus cuentas, realizar transacciones (retirar y consignar).
 
 ---
 
@@ -56,7 +56,7 @@ o ingreasndo como adminstrador aparecerá el saldo del cliente despues de haber 
 
 - Inicio de Sesión: Permite a los usuarios iniciar sesión en sus cuentas bancarias.<br>
 - Visualización de Transacciones: Muestra información detallada de las transacciones realizadas por el usuario.<br>
-- Transacciones: Permite realizar depósitos, retiros y transferencias.
+- Transacciones: Permite realizar depósitos y retiros.
 
 
 
