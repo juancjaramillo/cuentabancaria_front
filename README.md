@@ -44,10 +44,10 @@ Abra su navegador y visite http://localhost:8080.
    **contraseña:** 123<br>
  y alli podra ver y/o crear un cliente
 
-2. Usar cualquier **email** que alli existan como usuario y la contraseña es **123**. Con estos datos podrá ingresar a la seccion de Cliente
+2. Usar cualquier **email** que alli existan como usuario y la contraseña es **123**. Con estos datos podrá ingresar a la seccion de Cliente.
    
-3. Al ingresar como Cliente, en la parte superior está el menú donde podrá retirar /consigar y se verá reflejada el porceso en la vista de lista
-o ingreasndo como adminstrador aparecerá el saldo del cliente despues de haber realizado las transacciones.
+3. Al ingresar como Cliente, en la parte superior está el menú donde podrá retirar /consigar. Todos los procesos se verán reflejados en la vista de lista.
+Ingresando como adminstrador también  aparecerá el saldo del cliente.
 
 
 ---
